@@ -1,3 +1,4 @@
 master:cat
 modify from origin
+modify from local for 2nd
 modify from local
